@@ -53,7 +53,7 @@ I combine **analytical thinking** with practical tools to build solutions that m
 ## 📫 Let's connect
 
 📧 andrika@hotmail.de  
-🔗 [LinkedIn – Andrika Kapoor](https://www.linkedin.com/in/andrika-kapoor)
+🔗 [LinkedIn – Andrika Kapoor](https://www.linkedin.com/in/andrika-deeka-kapoor-11452620a)
 
 ---
 
