@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Andrika Kapoor
+# 👋 Hi, I'm Andrika Kapoor – welcome to my GitHub!
+
 
 I’m a Master’s student in **Medical Informatics** at Heidelberg University and Heilbronn University of Applied Sciences,  
 with a specialization in **Data Science**.
