@@ -30,23 +30,27 @@ I combine **analytical thinking** with practical tools to build solutions that m
 
 ## 🚀 Selected Projects
 
-### 🎬 DubMaster – AI-Powered Video Translator  
-**Technologies:** Python · Speech Recognition · Voice Cloning · Lip Sync  
-- Developed an end-to-end solution for automatic video translation and dubbing using open-source AI tools.  
-- Combined speech-to-text, text-to-speech, and lip-syncing to automate multilingual content creation.  
-- → Demonstrates how AI can reduce manual effort and scale communication across languages.
+🎬 DubMaster – AI-Powered Video Translator  
+Technologies: Python · Speech Recognition · Text-to-Speech · Lip Sync (Wav2Lip, Whisper, XTTS)
 
-### 🧠 Student Dropout Prediction – Early Risk Detection with ML  
-**Technologies:** Python · Scikit-learn · SHAP  
-- Built a machine learning pipeline to identify students at risk of dropping out based on demographic and academic data.  
-- Focused on model explainability to support fair and transparent decision-making.  
-- → Enables proactive intervention strategies in educational institutions.
+Developed a complete pipeline for multilingual video translation using open-source AI tools.  
+Integrated speech-to-text, translation, voice cloning, and lip-sync to create natural, dubbed video content in multiple languages.  
+→ Showcases the practical use of AI to automate content creation and bridge language barriers.
 
-### 🩸 Blood Donor Classification – Predicting Donation Behavior  
-**Technologies:** Python · Logistic Regression · Real Medical Dataset  
-- Classified blood donors using medical history and donation behavior to improve recruitment strategies.  
-- Balanced predictive performance with healthcare ethics and model interpretability.  
-- → Supports better planning in healthcare resource management.
+🧠 Student Dropout Prediction – Early Risk Detection with ML  
+Technologies: Python · Scikit-learn · SHAP · ONNX
+
+Built a machine learning pipeline to predict student dropout risk based on academic and demographic data.  
+Focused on interpretability using SHAP to ensure transparent and explainable predictions.  
+→ Demonstrates how data can support proactive decision-making in education.
+
+🩸 Blood Donor Classification – Predicting Donation Behavior  
+Technologies: Python · Logistic Regression · Real-World Health Data
+
+Analyzed medical and behavioral data to classify potential blood donors.  
+Balanced predictive performance with ethical considerations around health data.  
+→ Aims to improve planning and outreach in healthcare resource management.
+
 
 ---
 
